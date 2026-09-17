@@ -1,0 +1,101 @@
+job_title,company,location,apply_link,scraped_date,state,job_category,job_level,python_related,title_word_count,title_character_count
+Senior Python Developer,"Payne, Roberts and Davis","Stewartbury, AA",https://www.realpython.com,2026-09-15,AA,Technology,Senior Level,1,3,23
+Energy engineer,Vasquez-Davidson,"Christopherville, AA",https://www.realpython.com,2026-09-15,AA,Technology,Mid/General Level,0,2,15
+Legal executive,"Jackson, Chambers and Levy","Port Ericaburgh, AA",https://www.realpython.com,2026-09-15,AA,Business & Management,Mid/General Level,0,2,15
+Fitness centre manager,Savage-Bradley,"East Seanview, AP",https://www.realpython.com,2026-09-15,AP,Business & Management,Mid/General Level,0,3,22
+Product manager,Ramirez Inc,"North Jamieview, AP",https://www.realpython.com,2026-09-15,AP,Business & Management,Mid/General Level,0,2,15
+Medical technical officer,Rogers-Yates,"Davidville, AP",https://www.realpython.com,2026-09-15,AP,Technology,Mid/General Level,0,3,25
+Physiological scientist,Kramer-Klein,"South Christopher, AE",https://www.realpython.com,2026-09-15,AE,Data & Research,Mid/General Level,0,2,23
+Textile designer,Meyers-Johnson,"Port Jonathan, AE",https://www.realpython.com,2026-09-15,AE,Creative,Mid/General Level,0,2,16
+Television floor manager,Hughes-Williams,"Osbornetown, AE",https://www.realpython.com,2026-09-15,AE,Business & Management,Mid/General Level,0,3,24
+Waste management officer,"Jones, Williams and Villa","Scotttown, AP",https://www.realpython.com,2026-09-15,AP,Other,Mid/General Level,0,3,24
+Software Engineer (Python),Garcia PLC,"Ericberg, AE",https://www.realpython.com,2026-09-15,AE,Technology,Mid/General Level,1,3,26
+Interpreter,Gregory and Sons,"Ramireztown, AE",https://www.realpython.com,2026-09-15,AE,Other,Mid/General Level,0,1,11
+Architect,"Clark, Garcia and Sosa","Figueroaview, AA",https://www.realpython.com,2026-09-15,AA,Other,Mid/General Level,0,1,9
+Meteorologist,Bush PLC,"Kelseystad, AA",https://www.realpython.com,2026-09-15,AA,Other,Mid/General Level,0,1,13
+Audiological scientist,Salazar-Meyers,"Williamsburgh, AE",https://www.realpython.com,2026-09-15,AE,Data & Research,Mid/General Level,0,2,22
+English as a second language teacher,"Parker, Murphy and Brooks","Mitchellburgh, AE",https://www.realpython.com,2026-09-15,AE,Other,Mid/General Level,0,6,36
+Surgeon,Cruz-Brown,"West Jessicabury, AA",https://www.realpython.com,2026-09-15,AA,Healthcare,Mid/General Level,0,1,7
+Equities trader,Macdonald-Ferguson,"Maloneshire, AE",https://www.realpython.com,2026-09-15,AE,Other,Mid/General Level,0,2,15
+Newspaper journalist,"Williams, Peterson and Rojas","Johnsonton, AA",https://www.realpython.com,2026-09-15,AA,Other,Mid/General Level,0,2,20
+Materials engineer,Smith and Sons,"South Davidtown, AP",https://www.realpython.com,2026-09-15,AP,Technology,Mid/General Level,0,2,18
+Python Programmer (Entry-Level),"Moss, Duncan and Allen","Port Sara, AE",https://www.realpython.com,2026-09-15,AE,Technology,Entry Level,1,3,31
+Product/process development scientist,Gomez-Carroll,"Marktown, AA",https://www.realpython.com,2026-09-15,AA,Data & Research,Mid/General Level,0,3,37
+"Scientist, research (maths)","Manning, Welch and Herring","Laurenland, AE",https://www.realpython.com,2026-09-15,AE,Data & Research,Mid/General Level,0,3,27
+Ecologist,"Lee, Gutierrez and Brown","Lauraton, AP",https://www.realpython.com,2026-09-15,AP,Other,Mid/General Level,0,1,9
+Materials engineer,"Davis, Serrano and Cook","South Tammyberg, AP",https://www.realpython.com,2026-09-15,AP,Technology,Mid/General Level,0,2,18
+Historic buildings inspector/conservation officer,Smith LLC,"North Brandonville, AP",https://www.realpython.com,2026-09-15,AP,Other,Mid/General Level,0,4,49
+Data scientist,Thomas Group,"Port Robertfurt, AA",https://www.realpython.com,2026-09-15,AA,Data & Research,Mid/General Level,0,2,14
+Psychiatrist,Silva-King,"Burnettbury, AE",https://www.realpython.com,2026-09-15,AE,Other,Mid/General Level,0,1,12
+Structural engineer,Pierce-Long,"Herbertside, AA",https://www.realpython.com,2026-09-15,AA,Technology,Mid/General Level,0,2,19
+Immigration officer,Walker-Simpson,"Christopherport, AP",https://www.realpython.com,2026-09-15,AP,Other,Mid/General Level,0,2,19
+Python Programmer (Entry-Level),Cooper and Sons,"West Victor, AE",https://www.realpython.com,2026-09-15,AE,Technology,Entry Level,1,3,31
+Neurosurgeon,"Donovan, Gonzalez and Figueroa","Port Aaron, AP",https://www.realpython.com,2026-09-15,AP,Healthcare,Mid/General Level,0,1,12
+Broadcast engineer,"Morgan, Butler and Bennett","Loribury, AA",https://www.realpython.com,2026-09-15,AA,Technology,Mid/General Level,0,2,18
+Make,Snyder-Lee,"Angelastad, AP",https://www.realpython.com,2026-09-15,AP,Other,Mid/General Level,0,1,4
+"Nurse, adult",Harris PLC,"Larrytown, AE",https://www.realpython.com,2026-09-15,AE,Healthcare,Mid/General Level,0,2,12
+Air broker,Washington PLC,"West Colin, AP",https://www.realpython.com,2026-09-15,AP,Other,Mid/General Level,0,2,10
+"Editor, film/video","Brown, Price and Campbell","West Stephanie, AP",https://www.realpython.com,2026-09-15,AP,Creative,Mid/General Level,0,2,18
+"Production assistant, radio",Mcgee PLC,"Laurentown, AP",https://www.realpython.com,2026-09-15,AP,Other,Mid/General Level,0,3,27
+"Engineer, communications",Dixon Inc,"Wrightberg, AP",https://www.realpython.com,2026-09-15,AP,Technology,Mid/General Level,0,2,24
+Sales executive,"Thompson, Sheppard and Ward","Alberttown, AE",https://www.realpython.com,2026-09-15,AE,Business & Management,Mid/General Level,0,2,15
+Software Developer (Python),Adams-Brewer,"Brockburgh, AE",https://www.realpython.com,2026-09-15,AE,Technology,Mid/General Level,1,3,27
+Futures trader,Schneider-Brady,"North Jason, AE",https://www.realpython.com,2026-09-15,AE,Other,Mid/General Level,0,2,14
+Tour manager,Gonzales-Frank,"Arnoldhaven, AE",https://www.realpython.com,2026-09-15,AE,Business & Management,Mid/General Level,0,2,12
+Cytogeneticist,Smith-Wong,"Lake Destiny, AP",https://www.realpython.com,2026-09-15,AP,Other,Mid/General Level,0,1,14
+"Designer, multimedia",Pierce-Herrera,"South Timothyburgh, AP",https://www.realpython.com,2026-09-15,AP,Creative,Mid/General Level,0,2,20
+Trade union research officer,"Aguilar, Rivera and Quinn","New Jimmyton, AE",https://www.realpython.com,2026-09-15,AE,Data & Research,Mid/General Level,0,4,28
+"Chemist, analytical","Lowe, Barnes and Thomas","New Lucasbury, AP",https://www.realpython.com,2026-09-15,AP,Other,Mid/General Level,0,2,19
+"Programmer, multimedia","Lewis, Gonzalez and Vasquez","Port Cory, AE",https://www.realpython.com,2026-09-15,AE,Technology,Mid/General Level,0,2,22
+"Engineer, broadcasting (operations)",Taylor PLC,"Gileston, AA",https://www.realpython.com,2026-09-15,AA,Technology,Mid/General Level,0,3,35
+"Teacher, primary school","Oliver, Jones and Ramirez","Cindyshire, AA",https://www.realpython.com,2026-09-15,AA,Other,Mid/General Level,0,3,23
+Python Developer,Rivera and Sons,"East Michaelfort, AA",https://www.realpython.com,2026-09-15,AA,Technology,Mid/General Level,1,2,16
+Manufacturing systems engineer,Garcia PLC,"Joybury, AE",https://www.realpython.com,2026-09-15,AE,Technology,Mid/General Level,0,3,30
+"Producer, television/film/video","Johnson, Wells and Kramer","Emmatown, AE",https://www.realpython.com,2026-09-15,AE,Other,Mid/General Level,0,2,31
+"Scientist, forensic",Gonzalez LLC,"Colehaven, AP",https://www.realpython.com,2026-09-15,AP,Data & Research,Mid/General Level,0,2,19
+Bonds trader,"Morgan, White and Macdonald","Port Coryton, AE",https://www.realpython.com,2026-09-15,AE,Other,Mid/General Level,0,2,12
+Editorial assistant,Robinson-Fitzpatrick,"Amyborough, AA",https://www.realpython.com,2026-09-15,AA,Creative,Mid/General Level,0,2,19
+Photographer,"Waters, Wilson and Hoover","Reynoldsville, AA",https://www.realpython.com,2026-09-15,AA,Creative,Mid/General Level,0,1,12
+Retail banker,Hill LLC,"Port Billy, AP",https://www.realpython.com,2026-09-15,AP,Other,Mid/General Level,0,2,13
+Jewellery designer,Li-Gregory,"Adamburgh, AA",https://www.realpython.com,2026-09-15,AA,Creative,Mid/General Level,0,2,18
+Ophthalmologist,"Fisher, Ryan and Coleman","Wilsonmouth, AA",https://www.realpython.com,2026-09-15,AA,Other,Mid/General Level,0,1,15
+"Back-End Web Developer (Python, Django)",Stewart-Alexander,"South Kimberly, AA",https://www.realpython.com,2026-09-15,AA,Technology,Mid/General Level,1,5,39
+Licensed conveyancer,Abbott and Sons,"Benjaminland, AP",https://www.realpython.com,2026-09-15,AP,Other,Mid/General Level,0,2,20
+Futures trader,"Bryant, Santana and Davenport","Zacharyport, AA",https://www.realpython.com,2026-09-15,AA,Other,Mid/General Level,0,2,14
+Counselling psychologist,Smith PLC,"Port Devonville, AE",https://www.realpython.com,2026-09-15,AE,Healthcare,Mid/General Level,0,2,24
+Insurance underwriter,Patterson-Singh,"East Thomas, AE",https://www.realpython.com,2026-09-15,AE,Creative,Mid/General Level,0,2,21
+"Engineer, automotive",Martinez-Berry,"New Jeffrey, AP",https://www.realpython.com,2026-09-15,AP,Technology,Mid/General Level,0,2,20
+"Producer, radio","May, Taylor and Fisher","Davidside, AA",https://www.realpython.com,2026-09-15,AA,Other,Mid/General Level,0,2,15
+Dispensing optician,"Bailey, Owen and Thompson","Jamesville, AA",https://www.realpython.com,2026-09-15,AA,Other,Mid/General Level,0,2,19
+"Designer, fashion/clothing",Vasquez Ltd,"New Kelly, AP",https://www.realpython.com,2026-09-15,AP,Creative,Mid/General Level,0,2,26
+Chartered loss adjuster,Leblanc LLC,"Lake Antonio, AA",https://www.realpython.com,2026-09-15,AA,Other,Mid/General Level,0,3,23
+"Back-End Web Developer (Python, Django)","Jackson, Ali and Mckee","New Elizabethside, AA",https://www.realpython.com,2026-09-15,AA,Technology,Mid/General Level,1,5,39
+Forest/woodland manager,"Blankenship, Knight and Powell","Millsbury, AE",https://www.realpython.com,2026-09-15,AE,Business & Management,Mid/General Level,0,2,23
+Clinical cytogeneticist,"Patton, Haynes and Jones","Lloydton, AP",https://www.realpython.com,2026-09-15,AP,Other,Mid/General Level,0,2,23
+Print production planner,Wood Inc,"Port Jeremy, AA",https://www.realpython.com,2026-09-15,AA,Other,Mid/General Level,0,3,24
+Systems developer,Collins Group,"New Elizabethtown, AA",https://www.realpython.com,2026-09-15,AA,Technology,Mid/General Level,0,2,17
+Graphic designer,Flores-Nelson,"Charlesstad, AE",https://www.realpython.com,2026-09-15,AE,Creative,Mid/General Level,0,2,16
+Writer,"Mitchell, Jones and Olson","Josephbury, AE",https://www.realpython.com,2026-09-15,AE,Creative,Mid/General Level,0,1,6
+Field seismologist,Howard Group,"Seanfurt, AA",https://www.realpython.com,2026-09-15,AA,Other,Mid/General Level,0,2,18
+Chief Strategy Officer,Kramer-Edwards,"Williambury, AA",https://www.realpython.com,2026-09-15,AA,Business & Management,Senior Level,0,3,22
+Air cabin crew,Berry-Houston,"South Jorgeside, AP",https://www.realpython.com,2026-09-15,AP,Other,Mid/General Level,0,3,14
+Python Programmer (Entry-Level),Mathews Inc,"Robertborough, AP",https://www.realpython.com,2026-09-15,AP,Technology,Entry Level,1,3,31
+Warden/ranger,Riley-Johnson,"South Saratown, AP",https://www.realpython.com,2026-09-15,AP,Other,Mid/General Level,0,1,13
+Sports therapist,Spencer and Sons,"Hullview, AA",https://www.realpython.com,2026-09-15,AA,Healthcare,Mid/General Level,0,2,16
+Arts development officer,Camacho-Sanchez,"Philipland, AP",https://www.realpython.com,2026-09-15,AP,Other,Mid/General Level,0,3,24
+Printmaker,Oliver and Sons,"North Patty, AE",https://www.realpython.com,2026-09-15,AE,Other,Mid/General Level,0,1,10
+Health and safety adviser,Eaton PLC,"North Stephen, AE",https://www.realpython.com,2026-09-15,AE,Other,Mid/General Level,0,4,25
+Manufacturing systems engineer,Stanley-Frederick,"Stevensland, AP",https://www.realpython.com,2026-09-15,AP,Technology,Mid/General Level,0,3,30
+"Programmer, applications",Bradley LLC,"Reyesstad, AE",https://www.realpython.com,2026-09-15,AE,Technology,Mid/General Level,0,2,24
+Medical physicist,"Parker, Goodwin and Zavala","Bellberg, AP",https://www.realpython.com,2026-09-15,AP,Healthcare,Mid/General Level,0,2,17
+Media planner,Kim-Miles,"North Johnland, AE",https://www.realpython.com,2026-09-15,AE,Other,Mid/General Level,0,2,13
+Software Developer (Python),Moreno-Rodriguez,"Martinezburgh, AE",https://www.realpython.com,2026-09-15,AE,Technology,Mid/General Level,1,3,27
+"Surveyor, land/geomatics",Brown-Ortiz,"Joshuatown, AE",https://www.realpython.com,2026-09-15,AE,Other,Mid/General Level,0,2,24
+Legal executive,Hartman PLC,"West Ericstad, AA",https://www.realpython.com,2026-09-15,AA,Business & Management,Mid/General Level,0,2,15
+"Librarian, academic",Brooks Inc,"Tuckertown, AE",https://www.realpython.com,2026-09-15,AE,Other,Mid/General Level,0,2,19
+Barrister,Washington-Castillo,"Perezton, AE",https://www.realpython.com,2026-09-15,AE,Other,Mid/General Level,0,1,9
+Museum/gallery exhibitions officer,"Nguyen, Yoder and Petty","Lake Abigail, AE",https://www.realpython.com,2026-09-15,AE,Other,Mid/General Level,0,3,34
+"Radiographer, diagnostic",Holder LLC,"Jacobshire, AP",https://www.realpython.com,2026-09-15,AP,Other,Mid/General Level,0,2,24
+Database administrator,Yates-Ferguson,"Port Susan, AE",https://www.realpython.com,2026-09-15,AE,Data & Research,Mid/General Level,0,2,22
+Furniture designer,Ortega-Lawrence,"North Tiffany, AA",https://www.realpython.com,2026-09-15,AA,Creative,Mid/General Level,0,2,18
+Ship broker,"Fuentes, Walls and Castro","Michelleville, AP",https://www.realpython.com,2026-09-15,AP,Other,Mid/General Level,0,2,11
